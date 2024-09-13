@@ -2,7 +2,7 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';
-import 'package:sublet/utils/reusable_widgets/k_elevated_card.dart';
+import 'package:subnex/utils/reusable_widgets/k_elevated_card.dart';
 
 import '../../utils/constants/k_sizes.dart';
 import '../../utils/helpers/helper_functions.dart';

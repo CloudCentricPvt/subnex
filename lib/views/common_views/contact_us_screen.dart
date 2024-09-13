@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_phone_direct_caller/flutter_phone_direct_caller.dart';
 import 'package:material_dialogs/dialogs.dart';
 import 'package:material_dialogs/widgets/buttons/icon_button.dart';
-import 'package:sublet/utils/reusable_widgets/k_app_bar.dart';
+import 'package:subnex/utils/reusable_widgets/k_app_bar.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import '../../utils/constants/k_sizes.dart';

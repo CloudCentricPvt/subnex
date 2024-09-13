@@ -1,4 +1,4 @@
-# sublet
+# subnex
 
 A new Flutter project.
 

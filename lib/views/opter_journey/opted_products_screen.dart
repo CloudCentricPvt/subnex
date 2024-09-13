@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:sublet/utils/constants/k_sizes.dart';
-import 'package:sublet/utils/reusable_widgets/k_app_bar.dart';
-import 'package:sublet/utils/reusable_widgets/k_custom_app_bar.dart';
-import 'package:sublet/views/opter_journey/send_feedback.dart';
+import 'package:subnex/utils/constants/k_sizes.dart';
+import 'package:subnex/utils/reusable_widgets/k_app_bar.dart';
+import 'package:subnex/utils/reusable_widgets/k_custom_app_bar.dart';
+import 'package:subnex/views/opter_journey/send_feedback.dart';
 import '../../utils/reusable_widgets/k_elevated_card.dart';
 
 class OptedProductsScreen extends StatefulWidget {

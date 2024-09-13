@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:sublet/utils/constants/k_colors.dart';
-import 'package:sublet/utils/constants/k_sizes.dart';
-import 'package:sublet/utils/reusable_widgets/k_app_bar.dart';
+import 'package:subnex/utils/constants/k_colors.dart';
+import 'package:subnex/utils/constants/k_sizes.dart';
+import 'package:subnex/utils/reusable_widgets/k_app_bar.dart';
 
 import '../../utils/reusable_widgets/k_custom_app_bar.dart';
 

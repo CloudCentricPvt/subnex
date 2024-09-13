@@ -4,8 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
-import 'package:sublet/views/authentication/login_in_screen.dart';
-import 'package:sublet/views/authentication/sign_in_screen.dart';
+import 'package:subnex/views/authentication/login_in_screen.dart';
+import 'package:subnex/views/authentication/sign_in_screen.dart';
 import 'onboarding_items.dart';
 
 class OnboardingView extends StatefulWidget {

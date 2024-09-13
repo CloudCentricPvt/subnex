@@ -5,9 +5,9 @@ import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:path_provider/path_provider.dart';
-import 'package:sublet/utils/constants/k_sizes.dart';
-import 'package:sublet/utils/helpers/helper_functions.dart';
-import 'package:sublet/utils/reusable_widgets/k_image_dialog.dart';
+import 'package:subnex/utils/constants/k_sizes.dart';
+import 'package:subnex/utils/helpers/helper_functions.dart';
+import 'package:subnex/utils/reusable_widgets/k_image_dialog.dart';
 
 import '../../utils/constants/k_colors.dart';
 import '../../utils/constants/t_texts.dart';

@@ -3,17 +3,17 @@ import 'dart:developer';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
-import 'package:sublet/models/authentication/login/otp_verification_response.dart';
-import 'package:sublet/utils/theme/controller/k_theme_controller.dart';
-import 'package:sublet/utils/theme/k_app_theme.dart';
-import 'package:sublet/views/authentication/login_in_screen.dart';
-import 'package:sublet/views/authentication/otp_screen.dart';
-import 'package:sublet/views/authentication/otp_view.dart';
-import 'package:sublet/views/authentication/sign_in_screen.dart';
-import 'package:sublet/views/categories/category_screen.dart';
-import 'package:sublet/views/home/home_screen.dart';
-import 'package:sublet/views/home/master_screen.dart';
-import 'package:sublet/views/onboarding/onboarding_view.dart';
+import 'package:subnex/models/authentication/login/otp_verification_response.dart';
+import 'package:subnex/utils/theme/controller/k_theme_controller.dart';
+import 'package:subnex/utils/theme/k_app_theme.dart';
+import 'package:subnex/views/authentication/login_in_screen.dart';
+import 'package:subnex/views/authentication/otp_screen.dart';
+import 'package:subnex/views/authentication/otp_view.dart';
+import 'package:subnex/views/authentication/sign_in_screen.dart';
+import 'package:subnex/views/categories/category_screen.dart';
+import 'package:subnex/views/home/home_screen.dart';
+import 'package:subnex/views/home/master_screen.dart';
+import 'package:subnex/views/onboarding/onboarding_view.dart';
 
 void main() async {
   /// GetX Local Storage
@@ -33,7 +33,7 @@ class MyApp extends StatelessWidget {
 
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'SUBLET',
+      title: 'subnex',
       theme: KAppTheme.kLightTheme,
       darkTheme: KAppTheme.kDarkTheme,
       themeMode: KThemeController().themeMode,

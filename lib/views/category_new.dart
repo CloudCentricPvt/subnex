@@ -40,7 +40,7 @@ class _YourFeedBackState extends State<YourFeedBack> {
                           Image(
                             width: 80,
                             height: 40,
-                            image: AssetImage("assets/images/sublet_logo.png"),
+                            image: AssetImage("assets/images/subnex_logo.png"),
                           ),
                         ],
                       ),

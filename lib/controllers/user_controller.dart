@@ -1,5 +1,5 @@
 import 'package:flutter/cupertino.dart';
-import 'package:sublet/models/authentication/user/user_detail_response.dart';
+import 'package:subnex/models/authentication/user/user_detail_response.dart';
 
 import '../utils/constants/api_container.dart';
 

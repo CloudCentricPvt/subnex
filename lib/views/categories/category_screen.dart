@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:shimmer/shimmer.dart';
-import 'package:sublet/models/category/category_response.dart';
-import 'package:sublet/utils/reusable_widgets/k_custom_app_bar.dart';
-import 'package:sublet/views/categories/sub_category_screen.dart';
+import 'package:subnex/models/category/category_response.dart';
+import 'package:subnex/utils/reusable_widgets/k_custom_app_bar.dart';
+import 'package:subnex/views/categories/sub_category_screen.dart';
 
 import '../../controllers/category_controller.dart';
 import '../../utils/constants/k_colors.dart';

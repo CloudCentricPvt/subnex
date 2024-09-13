@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
-import 'package:sublet/utils/constants/k_colors.dart';
-import 'package:sublet/utils/helpers/helper_functions.dart';
+import 'package:subnex/utils/constants/k_colors.dart';
+import 'package:subnex/utils/helpers/helper_functions.dart';
 
 import '../../utils/constants/k_sizes.dart';
 import '../../utils/reusable_widgets/k_app_bar.dart';

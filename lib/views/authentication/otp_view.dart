@@ -2,7 +2,7 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:sms_autofill/sms_autofill.dart';
-import 'package:sublet/models/authentication/login/otp_verification_response.dart';
+import 'package:subnex/models/authentication/login/otp_verification_response.dart';
 
 class OTPView extends StatefulWidget {
   //final OtpResponse model;

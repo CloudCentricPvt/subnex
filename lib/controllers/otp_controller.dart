@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
-import 'package:sublet/models/authentication/login/otp_verification_response.dart';
+import 'package:subnex/models/authentication/login/otp_verification_response.dart';
 
 import '../utils/constants/api_container.dart';
 import '../utils/popups/k_material_dialogs.dart';
