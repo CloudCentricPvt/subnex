@@ -240,7 +240,6 @@ class _UserProfileScreenState extends State<UserProfileScreen> {
                           color: Colors.blue,
                           text: 'My Deals',
                           onTap: () {
-                            Get.to(() => const MasterScreen());
                           },
                         ),
                         CustomListTile(
@@ -248,7 +247,6 @@ class _UserProfileScreenState extends State<UserProfileScreen> {
                           color: Colors.green,
                           text: 'Sent Requests',
                           onTap: () {
-                            Get.to(() => const SentRequestScreen());
                           },
                         ),
                         CustomListTile(
@@ -256,7 +254,6 @@ class _UserProfileScreenState extends State<UserProfileScreen> {
                           color: Colors.red,
                           text: 'Request Product',
                           onTap: () {
-                            Get.to(() => const OptedProductsScreen());
                           },
                         ),
                         CustomListTile(
@@ -264,7 +261,6 @@ class _UserProfileScreenState extends State<UserProfileScreen> {
                           color: Colors.red,
                           text: 'Opted Product',
                           onTap: () {
-                            Get.to(() => const OptedProductsScreen());
                           },
                         ),
                         CustomListTile(
@@ -272,7 +268,6 @@ class _UserProfileScreenState extends State<UserProfileScreen> {
                           color: Colors.red,
                           text: 'Feedback or Ratings',
                           onTap: () {
-                            Get.to(() => const OptedProductsScreen());
                           },
                         ),
                         CustomListTile(
@@ -280,7 +275,7 @@ class _UserProfileScreenState extends State<UserProfileScreen> {
                           color: Colors.red,
                           text: 'Contact Us',
                           onTap: () {
-                            Get.to(() => const ContactUsScreen());
+
                           },
                         ),
                         CustomListTile(

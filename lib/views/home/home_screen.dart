@@ -81,7 +81,7 @@ class _HomeScreenState extends State<HomeScreen> {
           ),
         ],
       ),
-      drawer: !isListerMode ? const KSlider() : const KSliderLister(),
+      //drawer: !isListerMode ? const KSlider() : const KSliderLister(),
       body: SingleChildScrollView(
         child: Padding(
             padding: const EdgeInsets.only(left: 16.0, right: 16.0),
@@ -134,7 +134,6 @@ class _HomeScreenState extends State<HomeScreen> {
                 /// --- User Mode
                 // -- Un Comment later
                 const OpterMode()
-                //!isListerMode ? const OpterMode() : const ListerMode()
               ],
             )),
       ),
