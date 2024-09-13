@@ -14,7 +14,6 @@ import 'package:sublet/utils/reusable_widgets/k_app_bar.dart';
 import 'package:sublet/utils/reusable_widgets/k_custom_app_bar.dart';
 import 'package:sublet/utils/reusable_widgets/k_textinputform_field.dart';
 
-
 class MyProfileScreen extends StatefulWidget {
   const MyProfileScreen({super.key});
 
