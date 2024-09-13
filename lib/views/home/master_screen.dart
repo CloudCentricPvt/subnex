@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sublet/views/home/home_screen.dart';
+import 'package:subnex/views/home/home_screen.dart';
 import '../../../utils/constants/k_colors.dart';
 import '../../utils/helpers/helper_functions.dart';
 import '../chats/chat_screen.dart';

@@ -4,8 +4,8 @@ import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
-import 'package:sublet/utils/constants/k_images.dart';
-import 'package:sublet/views/authentication/otp_screen.dart';
+import 'package:subnex/utils/constants/k_images.dart';
+import 'package:subnex/views/authentication/otp_screen.dart';
 
 import '../../../utils/constants/k_colors.dart';
 import '../../controllers/login_controller.dart';

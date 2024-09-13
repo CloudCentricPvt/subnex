@@ -5,11 +5,11 @@ import 'package:flutter/services.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
-import 'package:sublet/controllers/otp_controller.dart';
-import 'package:sublet/utils/constants/k_images.dart';
-import 'package:sublet/views/authentication/login_in_screen.dart';
-import 'package:sublet/views/authentication/sign_in_screen.dart';
-import 'package:sublet/views/home/master_screen.dart';
+import 'package:subnex/controllers/otp_controller.dart';
+import 'package:subnex/utils/constants/k_images.dart';
+import 'package:subnex/views/authentication/login_in_screen.dart';
+import 'package:subnex/views/authentication/sign_in_screen.dart';
+import 'package:subnex/views/home/master_screen.dart';
 
 import '../../../utils/constants/k_colors.dart';
 import '../categories/category_screen.dart';

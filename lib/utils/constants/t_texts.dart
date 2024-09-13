@@ -2,7 +2,7 @@ class KTextString {
   KTextString._();
 
   /// App Detail
-  static const appName = "SUBLET";
+  static const appName = "subnex";
   static const appDescription = "";
 
   /// Screens

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:sublet/views/common_views/contact_us_screen.dart';
-import 'package:sublet/views/home/home_screen.dart';
-import 'package:sublet/views/opter_journey/opted_products_screen.dart';
-import 'package:sublet/views/opter_journey/sent_request_screen.dart';
+import 'package:subnex/views/common_views/contact_us_screen.dart';
+import 'package:subnex/views/home/home_screen.dart';
+import 'package:subnex/views/opter_journey/opted_products_screen.dart';
+import 'package:subnex/views/opter_journey/sent_request_screen.dart';
 
 
 class KSlider extends StatelessWidget {

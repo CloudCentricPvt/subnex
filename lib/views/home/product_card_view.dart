@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:sublet/utils/constants/k_colors.dart';
+import 'package:subnex/utils/constants/k_colors.dart';
 
 import '../common_views/product_detail_screen.dart';
 import 'home_screen.dart';

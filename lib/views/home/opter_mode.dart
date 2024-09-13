@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:sublet/utils/constants/k_sizes.dart';
-import 'package:sublet/views/categories/category_screen.dart';
-import 'package:sublet/views/categories/sub_category_screen.dart';
-import 'package:sublet/views/home/product_card_view.dart';
+import 'package:subnex/utils/constants/k_sizes.dart';
+import 'package:subnex/views/categories/category_screen.dart';
+import 'package:subnex/views/categories/sub_category_screen.dart';
+import 'package:subnex/views/home/product_card_view.dart';
 import 'home_screen.dart';
 import 'hz_scroll_card_view.dart';
 

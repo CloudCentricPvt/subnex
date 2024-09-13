@@ -1,4 +1,4 @@
-package com.example.sublet
+package com.example.subnex
 
 import io.flutter.embedding.android.FlutterActivity
 

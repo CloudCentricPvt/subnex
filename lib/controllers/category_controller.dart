@@ -1,4 +1,4 @@
-import 'package:sublet/models/category/category_response.dart';
+import 'package:subnex/models/category/category_response.dart';
 
 import '../models/category/sub_category_response.dart';
 import '../utils/constants/api_container.dart';

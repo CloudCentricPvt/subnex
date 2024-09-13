@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:shimmer/shimmer.dart';
-import 'package:sublet/models/category/sub_category_response.dart';
-import 'package:sublet/utils/helpers/helper_functions.dart';
-import 'package:sublet/utils/reusable_widgets/k_outlined_card.dart';
+import 'package:subnex/models/category/sub_category_response.dart';
+import 'package:subnex/utils/helpers/helper_functions.dart';
+import 'package:subnex/utils/reusable_widgets/k_outlined_card.dart';
 
 import '../../controllers/category_controller.dart';
 import '../../utils/constants/k_colors.dart';

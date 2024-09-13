@@ -1,16 +1,16 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
-import 'package:sublet/controllers/user_controller.dart';
-import 'package:sublet/models/authentication/user/user_detail_response.dart';
-import 'package:sublet/utils/constants/k_colors.dart';
-import 'package:sublet/utils/helpers/helper_functions.dart';
-import 'package:sublet/utils/reusable_widgets/k_app_bar.dart';
-import 'package:sublet/views/common_views/contact_us_screen.dart';
-import 'package:sublet/views/common_views/my_profile_screen.dart';
-import 'package:sublet/views/home/master_screen.dart';
-import 'package:sublet/views/opter_journey/opted_products_screen.dart';
-import 'package:sublet/views/opter_journey/sent_request_screen.dart';
+import 'package:subnex/controllers/user_controller.dart';
+import 'package:subnex/models/authentication/user/user_detail_response.dart';
+import 'package:subnex/utils/constants/k_colors.dart';
+import 'package:subnex/utils/helpers/helper_functions.dart';
+import 'package:subnex/utils/reusable_widgets/k_app_bar.dart';
+import 'package:subnex/views/common_views/contact_us_screen.dart';
+import 'package:subnex/views/common_views/my_profile_screen.dart';
+import 'package:subnex/views/home/master_screen.dart';
+import 'package:subnex/views/opter_journey/opted_products_screen.dart';
+import 'package:subnex/views/opter_journey/sent_request_screen.dart';
 
 import '../../utils/constants/k_sizes.dart';
 import '../../utils/reusable_widgets/k_slider.dart';

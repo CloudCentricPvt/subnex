@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:sublet/utils/constants/k_colors.dart';
-import 'package:sublet/utils/constants/k_sizes.dart';
+import 'package:subnex/utils/constants/k_colors.dart';
+import 'package:subnex/utils/constants/k_sizes.dart';
 
 import '../../utils/reusable_widgets/k_inner_shadow_card.dart';
 

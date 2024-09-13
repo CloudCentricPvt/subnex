@@ -6,13 +6,13 @@ import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:get_storage/get_storage.dart';
 import 'package:intl/intl.dart';
-import 'package:sublet/controllers/user_controller.dart';
-import 'package:sublet/models/authentication/user/user_detail_response.dart';
-import 'package:sublet/utils/constants/k_colors.dart';
-import 'package:sublet/utils/constants/k_sizes.dart';
-import 'package:sublet/utils/reusable_widgets/k_app_bar.dart';
-import 'package:sublet/utils/reusable_widgets/k_custom_app_bar.dart';
-import 'package:sublet/utils/reusable_widgets/k_textinputform_field.dart';
+import 'package:subnex/controllers/user_controller.dart';
+import 'package:subnex/models/authentication/user/user_detail_response.dart';
+import 'package:subnex/utils/constants/k_colors.dart';
+import 'package:subnex/utils/constants/k_sizes.dart';
+import 'package:subnex/utils/reusable_widgets/k_app_bar.dart';
+import 'package:subnex/utils/reusable_widgets/k_custom_app_bar.dart';
+import 'package:subnex/utils/reusable_widgets/k_textinputform_field.dart';
 
 
 class MyProfileScreen extends StatefulWidget {

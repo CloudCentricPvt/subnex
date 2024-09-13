@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
-import 'package:sublet/utils/constants/k_colors.dart';
-import 'package:sublet/views/opter_journey/send_feedback.dart';
+import 'package:subnex/utils/constants/k_colors.dart';
+import 'package:subnex/views/opter_journey/send_feedback.dart';
 
 import '../../utils/constants/k_sizes.dart';
 import '../../utils/reusable_widgets/k_app_bar.dart';
